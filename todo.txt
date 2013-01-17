@@ -1,0 +1,5 @@
+Create object to store states of all bools.
+  -Unify variable naming convention to 'state_<xxx>' or something similar.
+  -Ease of use
+  
+ 
